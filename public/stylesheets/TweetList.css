@@ -1,8 +1,6 @@
 body {
   padding: 50px;
- 	background: -moz-linear-gradient(top, #4099FF, #062242);
- 	background: -ms-linear-gradient(top, #4099FF, #062242);
- 	background: -webkit-linear-gradient(top, #999, #333);
+ 	background: #2e2e2e;
   background-attachment: fixed;
   color: #333;
 }
